@@ -1,4 +1,4 @@
-package github.com/wznpp1/Translate
+package Translate
 
 import (
 	context "context"
